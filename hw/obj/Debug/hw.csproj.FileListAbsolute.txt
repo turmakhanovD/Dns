@@ -1,0 +1,15 @@
+C:\Users\ТурмаханД\source\repos\hw\hw\bin\Debug\hw.exe.config
+C:\Users\ТурмаханД\source\repos\hw\hw\bin\Debug\hw.exe
+C:\Users\ТурмаханД\source\repos\hw\hw\bin\Debug\hw.pdb
+C:\Users\ТурмаханД\source\repos\hw\hw\obj\Debug\hw.csprojAssemblyReference.cache
+C:\Users\ТурмаханД\source\repos\hw\hw\obj\Debug\MainWindow.g.cs
+C:\Users\ТурмаханД\source\repos\hw\hw\obj\Debug\App.g.cs
+C:\Users\ТурмаханД\source\repos\hw\hw\obj\Debug\hw_MarkupCompile.cache
+C:\Users\ТурмаханД\source\repos\hw\hw\obj\Debug\hw_MarkupCompile.lref
+C:\Users\ТурмаханД\source\repos\hw\hw\obj\Debug\MainWindow.baml
+C:\Users\ТурмаханД\source\repos\hw\hw\obj\Debug\hw.g.resources
+C:\Users\ТурмаханД\source\repos\hw\hw\obj\Debug\hw.Properties.Resources.resources
+C:\Users\ТурмаханД\source\repos\hw\hw\obj\Debug\hw.csproj.GenerateResource.cache
+C:\Users\ТурмаханД\source\repos\hw\hw\obj\Debug\hw.csproj.CoreCompileInputs.cache
+C:\Users\ТурмаханД\source\repos\hw\hw\obj\Debug\hw.exe
+C:\Users\ТурмаханД\source\repos\hw\hw\obj\Debug\hw.pdb
